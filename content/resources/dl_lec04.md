@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Summary of topics covered in the lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/4184829874f26fc8449de569544fcd3d_dl_lec04.pdf
+file: /media/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/4184829874f26fc8449de569544fcd3d_dl_lec04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: dl_lec04.pdf
 uid: 41848298-74f2-6fc8-449d-e569544fcd3d

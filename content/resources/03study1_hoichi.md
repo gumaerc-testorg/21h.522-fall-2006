@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Study questions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/146a11348dccd933a590f9d33d21ffe8_03study1_hoichi.pdf
+file: /media/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/146a11348dccd933a590f9d33d21ffe8_03study1_hoichi.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: 03study1_hoichi.pdf
 uid: 146a1134-8dcc-d933-a590-f9d33d21ffe8

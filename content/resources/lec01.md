@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture presentation about spiritual and supernatural worlds, worlds
   of pleasure, worlds of pain, medieval japan, tales of the heike, tairano kiyomori,
   go-shirakawa and kinai region.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/4f52c3c264cb4269ba4b569c348821c3_lec01.pdf
+file: /media/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/4f52c3c264cb4269ba4b569c348821c3_lec01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec01.pdf
 uid: 4f52c3c2-64cb-4269-ba4b-569c348821c3
