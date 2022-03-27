@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dc407be1-10d5-201b-a779-448c753389a6
 resourcetype: Document
 title: 12studyq_aesth.pdf
 uid: 184cedb0-fbeb-e455-22f0-8f228d8db17c

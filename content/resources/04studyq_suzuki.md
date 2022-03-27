@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dc407be1-10d5-201b-a779-448c753389a6
 resourcetype: Document
 title: 04studyq_suzuki.pdf
 uid: 62207673-0116-f02d-818d-9b5f1094828b

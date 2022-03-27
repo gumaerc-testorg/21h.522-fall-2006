@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dc407be1-10d5-201b-a779-448c753389a6
 resourcetype: Document
 title: 09studyq_ronin.pdf
 uid: ea011f81-a28a-b64b-718f-ae59cd5d135f

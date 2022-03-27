@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dc407be1-10d5-201b-a779-448c753389a6
 resourcetype: Document
 title: 13studyq_rikyu.pdf
 uid: 1407cd10-d7fe-ed99-6a1f-37f7418924e8

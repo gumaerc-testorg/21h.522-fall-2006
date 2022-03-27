@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dc407be1-10d5-201b-a779-448c753389a6
 resourcetype: Document
 title: 16respq_saikaku.pdf
 uid: 6cc985b5-35a7-8e44-38ce-5ef4cc45f301
