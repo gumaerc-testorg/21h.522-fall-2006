@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The assignment section contains paper assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +13,7 @@ There are three paper assignments for this course:
 Essay 1
 -------
 
-Describe and analyze the many different "ways of the warriors" that emerge in the assigned [readings]({{< baseurl >}}/pages/readings) for the course (_Tales of Heike_, Suzuki, and other readings of this unit), as well as in _Seven Samurai_ and _Forty-Seven Rônin_. In what ways did the warrior ideal change over time - beginning with the 12th century war in which the Heike clan was destroyed, evolving through literary romantizations and Zen ideals and practices, and culminating in 17th century pronouncements of proper behavior by warriors who no longer had any wars to fight? How did the "47 Rônin" incident reveal contradictory aspects of samurai ideals and behavior? And in what ways do the films, as well as the historical record, reveal that warrior behavior as a whole was riddled with contradictions?
+Describe and analyze the many different "ways of the warriors" that emerge in the assigned {{% resource_link ba9cc8fb-d134-9df5-6932-857aeccc0141 "readings" %}} for the course (_Tales of Heike_, Suzuki, and other readings of this unit), as well as in _Seven Samurai_ and _Forty-Seven Rônin_. In what ways did the warrior ideal change over time - beginning with the 12th century war in which the Heike clan was destroyed, evolving through literary romantizations and Zen ideals and practices, and culminating in 17th century pronouncements of proper behavior by warriors who no longer had any wars to fight? How did the "47 Rônin" incident reveal contradictory aspects of samurai ideals and behavior? And in what ways do the films, as well as the historical record, reveal that warrior behavior as a whole was riddled with contradictions?
 
 Essay 2
 -------

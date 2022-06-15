@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an introduction to the medieval period.
-file: /media/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/8ac7da8fb7b18b6b6c2d663063c6ee37_dl_lec01.pdf
+file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/8ac7da8fb7b18b6b6c2d663063c6ee37_dl_lec01.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: dl_lec01.pdf
 uid: 8ac7da8f-b7b1-8b6b-6c2d-663063c6ee37
 ---
+This resource contains an introduction to the medieval period.
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains study questions for some of the course reading
+  assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -62,7 +64,7 @@ Historical/Geographical Overview
 Emergence of the Warrior Ethos
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/03study1_hoichi)) ([PDF 2]({{< baseurl >}}/resources/03studyq_heike))
+({{% resource_link 146a1134-8dcc-d933-a590-f9d33d21ffe8 "PDF 1" %}}) ({{% resource_link 71f2f62c-8613-0034-7a04-15958ae828ef "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +76,7 @@ Emergence of the Warrior Ethos
 Zen
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/04studyq_suzuki))
+({{% resource_link 62207673-0116-f02d-818d-9b5f1094828b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +142,7 @@ The Forty-Seven Ronin
 The Forty-Seven Ronin (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/09studyq_ronin))
+({{% resource_link ea011f81-a28a-b64b-718f-ae59cd5d135f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +166,7 @@ Ugetsu
 Medieval Aesthetics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/11studyq_mccull))
+({{% resource_link f540476e-9aef-db85-d13d-df15c455e8e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +178,7 @@ Medieval Aesthetics
 Medieval Aesthetics (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/12studyq_aesth)) ([PDF 2]({{< baseurl >}}/resources/12respq_medaesth))
+({{% resource_link 184cedb0-fbeb-e455-22f0-8f228d8db17c "PDF 1" %}}) ({{% resource_link 90991e52-4a5c-cfea-5f44-8646355eab76 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +190,7 @@ Medieval Aesthetics (cont.)
 Zen and the Tea Ceremony
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/13studyq_rikyu))
+({{% resource_link 1407cd10-d7fe-ed99-6a1f-37f7418924e8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +232,7 @@ Tokugawa Urban Life
 Saikaku
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/16respq_saikaku))
+({{% resource_link 6cc985b5-35a7-8e44-38ce-5ef4cc45f301 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +256,7 @@ Chikamatsu
 Ecstasy and Self Destruction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/18respq_chikamat))
+({{% resource_link 52d7baa3-c82a-4364-09a0-f93e72fa370f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -278,7 +280,7 @@ Women under Feudalism
 Saikaku's Amorous Woman/Mizoguchi's Tragic Heroine
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/20respq_saikaku))
+({{% resource_link f8e1987e-e588-82d2-aff8-ffe56d06976b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -320,7 +322,7 @@ Repression and Protest in History and Film
 Rebellions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/23respq_musui))
+({{% resource_link f2687d24-324b-0628-db3d-24349b01a446 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
