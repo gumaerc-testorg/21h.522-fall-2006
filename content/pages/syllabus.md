@@ -1,113 +1,78 @@
 ---
 content_type: page
+description: The syllabus section contains an overview and list of materials for the
+  course, required texts, recommended texts, course description, films, grading policies,
+  guidelines to grading and calendar table.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 837573eb-dba2-fddb-deeb-36a1cf0643f1
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Acknowledgement
----------------
+## Acknowledgement
 
 Special thanks to John Dower for the course conception and many of the course materials.
 
-Required Texts
---------------
+## Required Texts
 
-Sadler, Arthur, tr. _The Ten Foot Square Hut and Tales of the Heike_. Whitefish, MT: Kessinger, 2005. ISBN: 9780766193369.
+Sadler, Arthur, tr. *The Ten Foot Square Hut and Tales of the Heike*. Whitefish, MT: Kessinger, 2005. ISBN: 9780766193369.
 
-McCullough, Helen Craig, eds. _Classical Japanese Prose: An Anthology_. Stanford, CA: Standford University Press, 1991. ISBN: 9780804719605.
+McCullough, Helen Craig, eds. *Classical Japanese Prose: An Anthology*. Stanford, CA: Standford University Press, 1991. ISBN: 9780804719605.
 
-Saikaku, Ihara. _Five Women Who Loved Love_. Boston, MA: Tuttle Publishing, 1955. ISBN: 9780804801843.
+Saikaku, Ihara. *Five Women Who Loved Love*. Boston, MA: Tuttle Publishing, 1955. ISBN: 9780804801843.
 
-Kokichi, Katsu. _Musui's Story: The Autobiography of a Tokugawa Samurai_. Tucson, AZ: University of Arizona Press, 1988. ISBN: 9780816510351.
+Kokichi, Katsu. *Musui's Story: The Autobiography of a Tokugawa Samurai*. Tucson, AZ: University of Arizona Press, 1988. ISBN: 9780816510351.
 
-Suzuki, Daisetz T. _Zen and Japanese Culture_. New York, NY: MJF Books, 1997. ISBN: 9781567311242.
+Suzuki, Daisetz T. *Zen and Japanese Culture*. New York, NY: MJF Books, 1997. ISBN: 9781567311242.
 
-Recommended Texts
------------------
+## Recommended Texts
 
-Souyri, Pierre Francois. _The World Turned Upside Down_. New York, NY: Columbia University Press, 2001. ISBN: 9780231118422.
+Souyri, Pierre Francois. *The World Turned Upside Down*. New York, NY: Columbia University Press, 2001. ISBN: 9780231118422.
 
-Course Description
-------------------
+## Course Description
 
-The objective of this class is to introduce students to the historical development of early Japan through lectures, films and discussion of [readings]({{< baseurl >}}/pages/readings) by Japanese authors in translation. The course surveys pre-modern Japan from the late 1100s to the mid-1800s, when Japan was governed by a warrior class. We will study the experiences of nobles and courtiers, warriors, poets, female authors, monks, and merchants in order to complement our mythic notions of an eternal Japan, characterized by samurai, swords, honor, and duty. The most distinctive feature of the course is the screening of classic Japanese feature films dealing with medieval themes. History 21H.522 thus offers not only a historical introduction to pre-modern Japanese society and culture, but also a graphic impression of how traditional society has been visualized in modern times.
+The objective of this class is to introduce students to the historical development of early Japan through lectures, films and discussion of {{% resource_link ba9cc8fb-d134-9df5-6932-857aeccc0141 "readings" %}} by Japanese authors in translation. The course surveys pre-modern Japan from the late 1100s to the mid-1800s, when Japan was governed by a warrior class. We will study the experiences of nobles and courtiers, warriors, poets, female authors, monks, and merchants in order to complement our mythic notions of an eternal Japan, characterized by samurai, swords, honor, and duty. The most distinctive feature of the course is the screening of classic Japanese feature films dealing with medieval themes. History 21H.522 thus offers not only a historical introduction to pre-modern Japanese society and culture, but also a graphic impression of how traditional society has been visualized in modern times.
 
-Films
------
+## Films
 
 Arrangements have been made to put two copies of each film on reserve at the Humanities Film Office for checkout. Most films are also available at local video stores or on Netflix. It is desirable to review them in preparing for the required essays and students are encouraged to make active use of more Japanese films than just those required here. (Check with the instructor, however, for recommendations for the best supplemental films.)
 
-Grading Policies
-----------------
+## Grading Policies
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Class Participation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 20%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Three Essays
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 45%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Short Exam
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final Exam
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 25%
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Grades are based on class participation, three essays, a short exam and a final exam.
 
-1.  This course will be run in part as a seminar. Class participation counts for 20% of your grade and is judged on attendance, your contributions to class discussions. In addition, students must post weekly reading responses to the course Web site's forum. These are intended to help you analyze the readings / films and prepare you for discussions. Responses must be posted by class time on Thursdays (unless otherwise noted), printed out and brought to class. In most cases, I will post a question beforehand on the Web site. Students may skip one response; however, they are still expected to participate in discussion for that day. With respect to class discussions, if students are not adequately prepared, or are not contributing constructively, then weekly quizzes may be given.
-2.  The three essays make up 45% of your grade and should each be at least 1,500 words in length (six typewritten, double-spaced pages). They should discuss specific themes in the readings and are due at class time on Ses #10, Ses #17, and Ses #22. You must hand in all three essays to receive credit for this portion. Late papers will be downgraded. See below for the essay questions.
-3.  The short exam is worth 10% of your grade and will be given in class on Ses #6. You will be asked to write a capsule paragraph or two identifying and explaining the salient aspects and significance of basic subjects in the assigned readings and class discussions up until then (primarily the Historical Background readings and the Tale of Heike). Lists of potential "ID" topics will be distributed beforehand.
-4.  The final exam comprises 25% of your final grade. It will include both ID mini-essays and one or two longer essay questions that look back over the course as a whole. The possible ID topics as well as the essay question(s), will be distributed beforehand.
+1. This course will be run in part as a seminar. Class participation counts for 20% of your grade and is judged on attendance, your contributions to class discussions. In addition, students must post weekly reading responses to the course Web site's forum. These are intended to help you analyze the readings / films and prepare you for discussions. Responses must be posted by class time on Thursdays (unless otherwise noted), printed out and brought to class. In most cases, I will post a question beforehand on the Web site. Students may skip one response; however, they are still expected to participate in discussion for that day. With respect to class discussions, if students are not adequately prepared, or are not contributing constructively, then weekly quizzes may be given.
+2. The three essays make up 45% of your grade and should each be at least 1,500 words in length (six typewritten, double-spaced pages). They should discuss specific themes in the readings and are due at class time on Ses #10, Ses #17, and Ses #22. You must hand in all three essays to receive credit for this portion. Late papers will be downgraded. See below for the essay questions.
+3. The short exam is worth 10% of your grade and will be given in class on Ses #6. You will be asked to write a capsule paragraph or two identifying and explaining the salient aspects and significance of basic subjects in the assigned readings and class discussions up until then (primarily the Historical Background readings and the Tale of Heike). Lists of potential "ID" topics will be distributed beforehand.
+4. The final exam comprises 25% of your final grade. It will include both ID mini-essays and one or two longer essay questions that look back over the course as a whole. The possible ID topics as well as the essay question(s), will be distributed beforehand.
 
-Guidelines to Grading
----------------------
+## Guidelines to Grading
 
 A student's course grade is based on a combination of class attendance and participation, a series of three essays, a short exam and a final exam. As mentioned above, class participation involves both attendance and active engagement in discussion sections. Students are expected to be civil, mature and respectful of diverging points of view in class. Personal attacks will not be tolerated. It is especially important that those who are not particularly talkative do the response papers on the readings. (These are not graded, but I check them off and will do my best to periodically make comments on them. They are intended to get you started writing analyses of the readings.)
 
@@ -129,473 +94,253 @@ The same standards for your papers apply to the essays on the exams. Essays that
 
 My grading scale for the exams is:
 
-A = 96-100  
-A- = 91-95  
-B+ = 87-90  
-B = 82-86  
-B- = 78-81  
-C+ = 74-77  
-C = 69-73  
-C- = 65-68  
-E = 55-65  
+A = 96-100     
+A- = 91-95     
+B+ = 87-90     
+B = 82-86     
+B- = 78-81     
+C+ = 74-77     
+C = 69-73     
+C- = 65-68     
+E = 55-65     
 F = Below 55
 
-{{< anchor "Calendar" >}}{{< /anchor >}}Calendar
-------------------------------------------------
+## {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 FILMS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 KEY DATES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **Watch The World of the Heike (23 min) and Hôichi the Earless (excerpted from Kwaidan by Kobayashi Masaki, 1964; 50min)** by Ses #3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **I. Ways of The Warriors**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Historical/Geographical Overview
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Emergence of the Warrior Ethos
-{{< tdclose >}}
-{{< tdopen >}}
-**Watch Seven Samurai (Akira Kurosawa, 1954; 160 min) ** by Ses #5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+**Watch Seven Samurai (Akira Kurosawa, 1954; 160 min)  by Ses #5**
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Zen
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Zen and the Samurai
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **Watch Throne of Blood (Kurosawa, 1957; 105 min)** by Ses #7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Short Exam
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Bushidô
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **II. Spiritual and Supernatural Worlds**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Forty-Seven Ronin
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **47 Rônin (Mizoguchi, 1941; 241 min)**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Forty-Seven Ronin (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
-_47 Rônin_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*47 Rônin*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Ugetsu
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **Ugetsu (Mizoguchi, 1953; 94 min)**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Essay 1 due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Medieval Aesthetics
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **Onibaba (Shindô Kaneto, 1964; 103 min)**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Medieval Aesthetics (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
-_Onibaba_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Onibaba*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Zen and the Tea Ceremony
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **Sen no Rikyû (Teshigahara Hiroshi, 1990; 116 min)**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Christianity
-{{< tdclose >}}
-{{< tdopen >}}
-_Sen no Rikyû_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Sen no Rikyû*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **III. Worlds of Pleasure/Worlds of Pain**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Tokugawa Urban Life
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **Utamaro and His Five Women (Mizoguchi, 1946; 106 min)**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Saikaku
-{{< tdclose >}}
-{{< tdopen >}}
-_Utamaro and His Five Women_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Utamaro and His Five Women*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chikamatsu
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **Double Suicide (Shinoda Masahiro, 1969; 105 min)**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Essay 2 due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Ecstasy and Self Destruction
-{{< tdclose >}}
-{{< tdopen >}}
-_Double Suicide_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Double Suicide*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Women under Feudalism
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **Samurai Rebellion (Kobayashi, 1967; 120 min)**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Saikaku's Amorous Woman/Mizoguchi's Tragic Heroine
-{{< tdclose >}}
-{{< tdopen >}}
-_Samurai Rebellion_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Samurai Rebellion*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **IV. Reassessing The Samurai**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Oharu
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Finished _Samurai Rebellion_
+Finished *Samurai Rebellion*
 
 Watch **Life of Oharu (Mizoguchi, 1952; 136 min)**
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Repression and Protest in History and Film
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **Harakiri (Kobayashi, 1962; 134 min)**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Essay 3 due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Rebellions
-{{< tdclose >}}
-{{< tdopen >}}
-_Harakiri_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Harakiri*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Failed Samurai
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 **Kagemusha (Kurosawa, 1980; 179 m)**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Failed Samurai (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
-_Kagemusha_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Kagemusha*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Conclusion; Review for Final
-{{< tdclose >}}
-{{< tdopen >}}
-Finished _Kagemusha_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Finished *Kagemusha*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Final Exam
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
