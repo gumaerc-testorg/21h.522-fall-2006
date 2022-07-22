@@ -6,6 +6,7 @@ file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: handout_lec13.pdf
 uid: 2ec63c1b-fd20-cd44-e45f-f187c313af91
 ---
 This handout contains information about siddhartha gautama, pre buddhist concepts and practices, basic buddhist teachings, early buddhism and mahayana buddhism.
-

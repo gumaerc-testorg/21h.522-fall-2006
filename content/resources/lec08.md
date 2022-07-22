@@ -6,6 +6,7 @@ file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec08.pdf
 uid: c49f2105-cecc-32d1-d773-041b747c251a
 ---
 Lecture presentation about three unifiers, toyotomi hideyoshi, political settlements and oda nobunaga.
-

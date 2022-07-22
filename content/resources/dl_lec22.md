@@ -5,6 +5,7 @@ file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dl_lec22.pdf
 uid: db777d5c-2c50-2b91-473b-7eb2d0c4c0f2
 ---
 This resource contains notes on the samurai women.
-

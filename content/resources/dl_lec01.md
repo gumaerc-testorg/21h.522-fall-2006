@@ -5,6 +5,7 @@ file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dl_lec01.pdf
 uid: 8ac7da8f-b7b1-8b6b-6c2d-663063c6ee37
 ---
 This resource contains an introduction to the medieval period.
-

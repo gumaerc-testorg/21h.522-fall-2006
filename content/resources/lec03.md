@@ -8,6 +8,7 @@ file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: d70535d3-7e10-9fdf-aa60-3b9f624a2dca
 ---
 Lecture presentation about story of gi?, mongaku, aoi no mae and k?g?, battle of the bridge, death of kiyomori and
 death of kiso-tomoe the woman warrior.
-

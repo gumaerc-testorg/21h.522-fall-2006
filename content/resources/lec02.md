@@ -6,6 +6,7 @@ file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec02.pdf
 uid: f6f8780f-3f22-9185-3e55-9b320d18f4aa
 ---
 Lecture presentation about clearing fields, rise of warrior (bushi),  bushidan, emperor go t?ba, rise of the taira and genpei wars.
-

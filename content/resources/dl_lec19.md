@@ -5,6 +5,7 @@ file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dl_lec19.pdf
 uid: a1c8c489-f94f-18cd-b3fd-31eea7689aba
 ---
 This resource contains an overview of Tokugawa society.
-

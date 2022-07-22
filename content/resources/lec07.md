@@ -6,6 +6,7 @@ file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec07.pdf
 uid: 76dba656-cb57-91c7-c9ae-3ffa65ab93b7
 ---
 Lecture presentation about intellectual cultivation, benevolence and noh story.
-

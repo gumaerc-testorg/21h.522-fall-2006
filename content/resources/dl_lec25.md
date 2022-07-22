@@ -6,6 +6,7 @@ file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dl_lec25.pdf
 uid: 99e3f6b2-3043-dfaa-f079-29a69c7e1b9f
 ---
 This resource contains a discussion of how peasants were portrayed in Musui?s story?
-

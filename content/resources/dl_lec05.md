@@ -6,6 +6,7 @@ file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dl_lec05.pdf
 uid: 78fef70b-bc62-d020-46b0-00f773e01830
 ---
 This resource explains Zen concepts from Daisetz Suzuki?s Zen and Japanese culture.
-
