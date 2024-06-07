@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains notes on medieval aesthetics.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/0655e5ab0cf4383ecbf1eb876335225c_dl_lec12.pdf
+file_size: 12652
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

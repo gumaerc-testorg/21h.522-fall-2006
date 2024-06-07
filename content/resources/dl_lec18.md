@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains an overview of Tokugawa society.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/3c3aec4bc84ac764ac6de792422b21c2_dl_lec18.pdf
+file_size: 19657
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

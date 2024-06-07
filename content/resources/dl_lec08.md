@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a lecture on Unification.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/9e4e57643696bc25c8105d1fa1789aaa_dl_lec08.pdf
+file_size: 13489
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

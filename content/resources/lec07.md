@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation about intellectual cultivation, benevolence and
   noh story.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/76dba656cb5791c7c9ae3ffa65ab93b7_lec07.pdf
+file_size: 64086
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
