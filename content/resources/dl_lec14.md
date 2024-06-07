@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains explanation on the Christianity in Japan.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/7a52f0dcf04e9770b30841d5992c3a52_dl_lec14.pdf
+file_size: 14435
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

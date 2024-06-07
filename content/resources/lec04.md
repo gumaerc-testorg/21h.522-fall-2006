@@ -4,6 +4,7 @@ description: Lecture presentation about warrior values in heike, buddhist values
   heike, end of heian period, kamakura shogunate, buddhism and buddhism in kamakura
   period.
 file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/e7ccdf84ded334498e36fdfa8eb49331_lec04.pdf
+file_size: 22485
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
