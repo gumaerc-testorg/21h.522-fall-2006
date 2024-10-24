@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a review of topics discussed in the course.
-file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/277914e35f5490b6a99fd6ccb392564e_dl_lec26.pdf
+file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/277914e35f5490b6a99fd6ccb392564e_dl_lec26.pdf
 file_size: 11730
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains example from the film 47 Ronin, to show loyalty
   and honor.
-file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/47efd6b168ef88ff6b512afb97486c59_dl_lec09.pdf
+file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/47efd6b168ef88ff6b512afb97486c59_dl_lec09.pdf
 file_size: 14449
 file_type: application/pdf
 learning_resource_types:
