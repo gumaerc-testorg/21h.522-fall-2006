@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about puppets, operators, chanter,
   shamisen accompaniment.
-file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/93d9509fafea9a238713148e0814e123_lec18.pdf
+file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/93d9509fafea9a238713148e0814e123_lec18.pdf
 file_size: 821651
 file_type: application/pdf
 learning_resource_types:
