@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains information about siddhartha gautama, pre buddhist
   concepts and practices, basic buddhist teachings, early buddhism and mahayana buddhism.
-file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/2ec63c1bfd20cd44e45ff187c313af91_handout_lec13.pdf
+file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/2ec63c1bfd20cd44e45ff187c313af91_handout_lec13.pdf
 file_size: 78449
 file_type: application/pdf
 learning_resource_types:
