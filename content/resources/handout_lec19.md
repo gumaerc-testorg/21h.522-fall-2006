@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains information about genroku era, kabuki theater and
   bunraku (puppet) theater,
-file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/0be0ae76290448ac44ef5c42f9d7cfc3_handout_lec19.pdf
+file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/0be0ae76290448ac44ef5c42f9d7cfc3_handout_lec19.pdf
 file_size: 95838
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explores the contrasts between Rikyu and Hideyoshi.
-file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/cd05d897a64d1aae9583f628c223c31d_dl_lec15.pdf
+file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/cd05d897a64d1aae9583f628c223c31d_dl_lec15.pdf
 file_size: 12300
 file_type: application/pdf
 learning_resource_types:
