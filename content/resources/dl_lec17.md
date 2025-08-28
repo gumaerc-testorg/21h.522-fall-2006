@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on giri versus ninjo.
-file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/902967a9c0047b1ed739e952df006ad6_dl_lec17.pdf
+file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/902967a9c0047b1ed739e952df006ad6_dl_lec17.pdf
 file_size: 14116
 file_type: application/pdf
 learning_resource_types:
