@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation about famous haiku, basho sets off, urami no taki,
   unganji, at takadachi, hikarid?, obanazawa and sanemori?s helmet.
-file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/fdbba091d28ffd1ce54a5160438aa462_lec12.pdf
+file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/fdbba091d28ffd1ce54a5160438aa462_lec12.pdf
 file_size: 70974
 file_type: application/pdf
 learning_resource_types:
