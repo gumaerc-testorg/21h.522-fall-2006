@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains informationn on spirituality.
-file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/fb31e067da21bf25df99e8ea66f38b3c_dl_lec10.pdf
+file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/fb31e067da21bf25df99e8ea66f38b3c_dl_lec10.pdf
 file_size: 9092
 file_type: application/pdf
 learning_resource_types:

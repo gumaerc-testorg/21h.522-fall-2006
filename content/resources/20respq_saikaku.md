@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions.
-file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/f8e1987ee58882d2aff8ffe56d06976b_20respq_saikaku.pdf
+file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/f8e1987ee58882d2aff8ffe56d06976b_20respq_saikaku.pdf
 file_size: 18895
 file_type: application/pdf
 learning_resource_types: []

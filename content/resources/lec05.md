@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation about basic political narrative, daimy?: regional
   lords and peasantry.'
-file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/1a6fc271b9d730a33ee581e1f987264b_lec05.pdf
+file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/1a6fc271b9d730a33ee581e1f987264b_lec05.pdf
 file_size: 18839
 file_type: application/pdf
 learning_resource_types:

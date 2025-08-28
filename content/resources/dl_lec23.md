@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a lecture on the protests, rebellion, and mass
   hysteria.
-file: /courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/337de49a515dd667698899a389d4493a_dl_lec23.pdf
+file: /ol-ocw-studio-app/courses/21h-522-japan-in-the-age-of-the-samurai-history-and-film-fall-2006/337de49a515dd667698899a389d4493a_dl_lec23.pdf
 file_size: 17246
 file_type: application/pdf
 learning_resource_types:
